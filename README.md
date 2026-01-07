@@ -62,6 +62,7 @@ task2/backend/
     ├── script.js
     └── style.css
 
+
 User Dashboard (Public-Facing)
 
 Users can:
@@ -128,4 +129,5 @@ All constraints satisfied (no Streamlit / Gradio / notebook apps)
 
 Author
 Akshay Bhadule
+
 
