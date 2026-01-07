@@ -32,12 +32,12 @@ task1
   - JSON validity rate
   - Reliability and consistency
 
-  **Output Format:**
-  ```json
-  {
-    "predicted_stars": 4,
-    "explanation": "Brief reasoning for the assigned rating."
-  }
+    **Output Format:**
+    ```json
+    {
+      "predicted_stars": 4,
+      "explanation": "Brief reasoning for the assigned rating."
+    }
 
 Task 2: AI-Powered Review Management System
 Objective
@@ -129,5 +129,6 @@ All constraints satisfied (no Streamlit / Gradio / notebook apps)
 
 Author
 Akshay Bhadule
+
 
 
